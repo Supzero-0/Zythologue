@@ -1,0 +1,6 @@
+[submodule "Zythologue-BeerCraftAPI"]
+	path = Zythologue-BeerCraftAPI
+	url = git@github.com:Supzero-0/Zythologue-BeerCraftAPI.git
+[submodule "Zytho-Front-ML"]
+	path = Zytho-Front-ML
+	url = git@github.com:Supzero-0/Zytho-Front-ML.git
